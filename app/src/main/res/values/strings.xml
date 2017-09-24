@@ -1,0 +1,18 @@
+<resources>
+    <string name="facebook_app_id">139048556623875</string>
+
+    <string name="fb_login_protocol_scheme">fb139048556623875</string>
+    <string name="app_name">My Application</string>
+
+    <string name="title_activity_detail">Details</string>
+    <string name="undo">Undo</string>
+    <string name="picture">Picture</string>
+
+
+    <string name="logged_in_success">Logged in successfully</string>
+    <string name="logged_in_cancelled">Logged in cancelled</string>
+    <string name="logged_in_failed">Logged in failed</string>
+
+
+    <string name="logged_in">Logged in</string>
+</resources>

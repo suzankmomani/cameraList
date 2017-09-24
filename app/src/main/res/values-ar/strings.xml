@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="facebook_app_id">139048556623875</string>
+
+    <string name="fb_login_protocol_scheme">fb139048556623875</string>
+    <string name="app_name">تطبيقي</string>
+    <string name="title_activity_detail">التفاصيل</string>
+    <string name="undo">تراجع</string>
+    <string name="picture">صورة</string>
+
+    <string name="logged_in_success">تم تسجيل الدخول بنجاح</string>
+    <string name="logged_in_cancelled">تم الغاء تسجيل الدخول</string>
+    <string name="logged_in_failed">تم تسجيل الدخول بنجاح</string>
+
+    <string name="logged_in"> تسجيل الدخول</string>
+
+</resources>
